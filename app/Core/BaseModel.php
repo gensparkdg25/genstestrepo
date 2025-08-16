@@ -7,4 +7,7 @@ class BaseModel
     {
         $this->db = Database::connection();
     }
+
+ 
+
 }
